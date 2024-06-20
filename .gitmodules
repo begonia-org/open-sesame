@@ -1,0 +1,3 @@
+[submodule "ragprotos"]
+	path = ragprotos
+	url = git@github.com:begonia-org/openrag-protos.git
